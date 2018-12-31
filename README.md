@@ -1,4 +1,3 @@
 # hello-world
-Practice text
 
-Hello world
+This is the master file
